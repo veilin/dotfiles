@@ -8,6 +8,8 @@ declare -a packages_apps=(
   'tmux'
   'wget'
   'yarn'
+  'maven'
+  'nvm'
 )
 
 for app in "${packages_apps[@]}"; do

@@ -21,8 +21,8 @@ declare -a cask_apps=(
   'visual-studio-code'
   'vlc'
   'whatsapp'
-  'maven'
-  'nvm'
+  'adoptopenjdk8'
+  'adoptopenjdk11'
 )
 
 for app in "${cask_apps[@]}"; do
