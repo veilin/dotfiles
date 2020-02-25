@@ -57,7 +57,7 @@ else
 fi
 
 # compiax
-RPROMPT='${my_gray}COMP$FG[033]IAX%{$reset_color%}%'
+RPROMPT='$FG[009]ADP%{$reset_color%}%'
 
 # git settings
 ZSH_THEME_GIT_PROMPT_PREFIX="$FG[075]($FG[078]"
