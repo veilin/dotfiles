@@ -5,7 +5,6 @@ declare -a cask_apps=(
   'google-chrome'
   'intellij-idea'
   'insomnia'
-  'iterm2-nightly'
   'java'
   'keepingyouawake'
   'lastpass'
@@ -22,6 +21,8 @@ declare -a cask_apps=(
   'visual-studio-code'
   'vlc'
   'whatsapp'
+  'maven'
+  'nvm'
 )
 
 for app in "${cask_apps[@]}"; do

@@ -2,7 +2,7 @@ declare -a packages_apps=(
   'mas'
   'node'
   'python3'
-  'redis'
+ # 'redis'
   'speedtest-cli'
   'tree'
   'tmux'
