@@ -23,6 +23,8 @@ declare -a cask_apps=(
   'whatsapp'
   'adoptopenjdk8'
   'adoptopenjdk11'
+  'tig'
+  'joplin'
 )
 
 for app in "${cask_apps[@]}"; do

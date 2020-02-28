@@ -10,6 +10,7 @@ declare -a packages_apps=(
   'yarn'
   'maven'
   'nvm'
+  'joplin'
 )
 
 for app in "${packages_apps[@]}"; do
