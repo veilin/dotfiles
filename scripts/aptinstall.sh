@@ -34,7 +34,9 @@ install inkscape
 install figlet
 install wine
 install winetricks
+install steam-installer
 
 # Dev tools
 install mysql-workbench
-install npm
+#install npm
+install maven

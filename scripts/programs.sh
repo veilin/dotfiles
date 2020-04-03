@@ -7,3 +7,4 @@ cd programs/
 ./docker.sh
 ./python.sh
 ./vsc.sh
+./node.sh

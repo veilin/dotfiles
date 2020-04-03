@@ -13,3 +13,8 @@ sudo apt install -y gnome-tweaks
 #cp ../img/desktop.jpg ~/desktop.jpg
 #cp ../img/lock.jpg ~/lock.jpg
 #dconf load /org/gnome/ < ../../settings.dconf
+
+
+# ULauncher
+sudo add-apt-repository ppa:agornostal/ulauncher -y
+sudo apt install ulauncher -y
