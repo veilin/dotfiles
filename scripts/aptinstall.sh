@@ -14,21 +14,27 @@ function install {
 }
 
 # Basics
-#install awscli
+install gnome-tweaks
 install chromium-browser
 install curl
 install wget
 install exfat-utils
 install git
 install htop
+install tig
+install synaptic
 
 # Image processing
-#install gimp
+install gimp
+install inkscape
 #install jpegoptim
 #install optipng
-
+	
 # Fun stuff
 install figlet
 install wine
 install winetricks
 
+# Dev tools
+install mysql-workbench
+install npm

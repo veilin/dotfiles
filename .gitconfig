@@ -1,7 +1,7 @@
 
 [user]
-    name = Victoria Drake
-    email = hello@victoria.dev
+    name = Rudolf Liebenberg
+    email = rudolfl@xpedia.co.za
 [color]
     diff = auto
     status = auto
@@ -17,7 +17,7 @@
 [commit]
     template = ~/.gitmessage
 [core]
-    editor = vim
+    editor = micro
 [push]
     followTags = true
     default = current
