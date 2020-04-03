@@ -29,4 +29,6 @@ install htop
 
 # Fun stuff
 install figlet
+install wine
+install winetricks
 

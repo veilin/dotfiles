@@ -1,6 +1,4 @@
-# Dotfiles and set up scripts for my Linux 💜 machine
-
-Now in new-and-improved *Vaporwave flavor!*
+# Dotfiles and set up scripts for my Ubuntu 💻 machine
 
 My personal set-up scripts. 
 

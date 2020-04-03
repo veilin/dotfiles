@@ -161,3 +161,5 @@ function omg_prompt_callback() {
         echo "\e[0;31m(`basename ${VIRTUAL_ENV}`)\e[0m "
     fi
 }
+
+eval "$(starship init bash)"
