@@ -8,3 +8,4 @@ cd programs/
 ./python.sh
 ./vsc.sh
 ./node.sh
+./yarn.sh

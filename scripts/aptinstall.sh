@@ -38,5 +38,5 @@ install steam-installer
 
 # Dev tools
 install mysql-workbench
-#install npm
 install maven
+install git-flow
