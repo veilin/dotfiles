@@ -9,3 +9,6 @@ cd programs/
 ./vsc.sh
 ./node.sh
 ./yarn.sh
+./insomnia.sh
+./gcloud.sh
+./azure-cli.sh
