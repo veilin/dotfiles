@@ -40,3 +40,4 @@ install steam-installer
 install mysql-workbench
 install maven
 install git-flow
+install xclip
